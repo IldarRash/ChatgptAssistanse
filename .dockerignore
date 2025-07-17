@@ -1,0 +1,9 @@
+# Ignore the build output
+target/
+
+# Ignore git history
+.git/
+.gitignore
+
+# Ignore the .env file
+.env 
